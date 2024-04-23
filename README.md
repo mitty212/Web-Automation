@@ -1,0 +1,1 @@
+This Repository is dedicated to display useful automation scripts. Some of which are based completely on Google Colab, since my previous company does not allow installing Python directly into my work computer, and I am sure that some of you have the same problem
